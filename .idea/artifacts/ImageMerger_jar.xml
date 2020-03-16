@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageMerger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageMerger_jar</output-path>
+    <root id="archive" name="ImageMerger.jar">
+      <element id="module-output" name="ImageMerger" />
+    </root>
+  </artifact>
+</component>
